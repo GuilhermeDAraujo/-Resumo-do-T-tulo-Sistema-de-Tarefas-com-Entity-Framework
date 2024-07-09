@@ -5,16 +5,16 @@ uma lista de tarefas.
 
 ## Contexto
 
-A aplicação permite criar, ler, atualizar e deletar tarefas (CRUD). Pode ser uma Web API ou MVC, conforme a preferência.
+A aplicação permite criar, ler, atualizar e deletar tarefas (CRUD).
 
 ## Estrutura da Classe Tarefa
 
 Tarefa
-├── id: int
-├── titulo: string
-├── descricao: string
-├── data: DateTime
-└── status: string
+├── id: int;
+├── titulo: string;
+├── descricao: string;
+├── data: DateTime;
+└── status: string;
 
 Endpoints
 Aqui estão os endpoints da aplicação:
