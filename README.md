@@ -19,7 +19,7 @@ A aplicação permite criar, ler, atualizar e deletar tarefas (CRUD).
 
 
 Endpoints
-Aqui estão os endpoints da aplicação:
+Aqui estão os endpoints da aplicação: 
 
 | Verbo  | Endpoint               | Parâmetro |
 |--------|------------------------|-----------|
